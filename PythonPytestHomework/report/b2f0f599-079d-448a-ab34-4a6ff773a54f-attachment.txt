@@ -1,0 +1,6 @@
+[32mINFO    [0m Selenium_commands:pretty_debug.py:23 [36m
+Test 'Selenium_commands/test_.py::test_print_text' STARTED
+[0m
+[32mINFO    [0m Selenium_commands:pretty_debug.py:23 [36m
+ Test 'Selenium_commands/test_.py::test_print_text' COMPLETED
+[0m

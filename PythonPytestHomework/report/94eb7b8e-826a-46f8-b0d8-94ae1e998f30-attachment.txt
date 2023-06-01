@@ -1,0 +1,9 @@
+[32mINFO    [0m Selenium:pretty_debug.py:23 [36m
+Test 'Selenium_commands/test_checkbox.py::test_for_checkboxes' STARTED
+[0m
+[32mINFO    [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:115 Executing: C:\Users\LENOVO\PycharmProjects\pythonProject6\venv\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+[35mDEBUG   [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:103 Using driver at: C:\Users\LENOVO\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+[35mDEBUG   [0m selenium.webdriver.common.service:service.py:207 Started executable: `C:\Users\LENOVO\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe` in a child process with pid: 6048
+[32mINFO    [0m Selenium:pretty_debug.py:23 [36m
+ Test 'Selenium_commands/test_checkbox.py::test_for_checkboxes' COMPLETED
+[0m
